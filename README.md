@@ -16,6 +16,6 @@ The system features a menu-driven interface and implements **user permissions us
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/mo-c-e/Client-and-Transaction-Management-System.git
 2.Open the project folder and double-click the .sln file to open it in Visual Studio.
 3.Build the project.
